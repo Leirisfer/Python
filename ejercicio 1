@@ -1,0 +1,16 @@
+#inicializamos
+a=0
+b=0
+#asignamos un valor
+a=int(input("ingrese un numero"))
+b=int(input(ïngrese un numero"))
+#realizamos suma,resta,modo y mult
+suma=a+b
+resta=a-b
+mult=a*b
+#hacemos las operaciones
+print("si sumamos los dos numero  es:",suma)
+print("la resta de los numero es:",resta)
+print("la multiplicacion de los numero es:",mult)
+print("modo de la suma y la resta es:",modo)
+
